@@ -1,12 +1,28 @@
 h2 {
 	font-family: Calibri, sans-serif;
-	font-size: 5em;
+	font-size: 6em;
 }
 
 form {
 	font-family: Calibri, sans-serif;
 	font-size: 1.1em;
-	padding-top: 10%
-	margin: auto;
-	width: 50%
+	padding-top: 7em;
+	display: block;
 }
+
+body{
+	text-align: center;
+}
+
+#emailaddress, #dob, #phonenum {
+    display: block;
+    margin: auto;
+	font-size: 1.3em;
+}
+
+label{
+	font-size: 2.3em
+}
+
+
+
