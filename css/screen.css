@@ -1,9 +1,12 @@
 h2 {
 	font-family: Calibri, sans-serif;
-	font-size: 1.3em;
+	font-size: 5em;
 }
 
 form {
-	padding-top: 20%
+	font-family: Calibri, sans-serif;
 	font-size: 1.1em;
+	padding-top: 10%
+	margin: auto;
+	width: 50%
 }
