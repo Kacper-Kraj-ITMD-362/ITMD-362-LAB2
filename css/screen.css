@@ -1,6 +1,7 @@
 h2 {
 	font-family: Calibri, sans-serif;
 	font-size: 6em;
+	margin-top: 1.1em;
 }
 
 form {
@@ -28,6 +29,10 @@ label{
     font-size: 2em;
     margin-top: 2em;
     border-radius: 2em;
+}
+
+.form-group {
+  margin-bottom: 15px;
 }
 
 
