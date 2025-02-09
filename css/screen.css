@@ -23,10 +23,17 @@ fieldset {
     line-height: 2;
 }
 
+#submitbutton {
+	font-size: 2em;
+    margin-top: 1em;
+    padding: 0.5em 2em;
+	border-radius: 1em;
+}
+
 @media screen and (min-width: 768px) {
 h1 {
-font-size: 6em;
-margin-top: 1.1em;
+	font-size: 6em;
+	margin-top: 1.1em;
 }
 
 form {
@@ -57,11 +64,13 @@ label {
 input {
     flex-basis: 55%;
 	font-size: 1.3em;
+	border-radius: 0.6em;
 }
 
 #submitbutton {
 	font-size: 2em;
     margin-top: 1em;
     padding: 0.5em 2em;
+	border-radius: 1em;
 }
 }
